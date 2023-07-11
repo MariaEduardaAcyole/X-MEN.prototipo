@@ -7,4 +7,5 @@ Contem
 - CSS
 
 Dificuldade: facil
-Vantagens: Desenvolver o DOM, Criaçao de funcoes em JS, responsividade, entre outros.
+
+### Vantagens: Desenvolver o DOM, Criaçao de funcoes em JS, responsividade, entre outros.
