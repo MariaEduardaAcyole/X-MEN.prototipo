@@ -1,5 +1,5 @@
 # X-MEN.prototipo
-![](./src/imagens/logo.svc)
+![](https://raw.githubusercontent.com/MariaEduardaAcyole/X-MEN.prototipo/main/src/imagens/logo.svg)
 
 
 ## Projeto criado na semana do zero ao programador contratado.
