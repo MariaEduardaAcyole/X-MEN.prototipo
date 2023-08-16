@@ -6,6 +6,8 @@ Contem
 - HTML
 - CSS
 
-Dificuldade: facil
+## Visualizaçao 
+Passo 1: 
+### Dificuldade: facil
 
 ### Vantagens: Desenvolver o DOM, Criaçao de funcoes em JS, responsividade, entre outros.
