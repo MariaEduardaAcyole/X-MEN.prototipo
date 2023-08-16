@@ -1,5 +1,5 @@
 # X-MEN.prototipo
-![alt text](./src/imagens/logo.svc)
+![](./src/imagens/logo.svc)
 
 
 ## Projeto criado na semana do zero ao programador contratado.
